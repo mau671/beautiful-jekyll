@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Montar varias TD (misma cuenta) con rclone
-subtitle: Tutorial para montar todas las TD de una misma cuenta de una forma sencilla sin tener que montar cada unidad por separado
+subtitle: Aplicable a cualquier OS
 thumbnail-img: /assets/img/rclone-logo.png
 #gh-repo: daattali/beautiful-jekyll
 #gh-badge: [star, fork, follow]
@@ -9,20 +9,13 @@ tags: [tutorial]
 comments: false
 ---
 
-This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
+En este tutorial aprenderas a montar todas las TD de una misma cuenta de una forma sencilla sin tener que montar cada unidad por separado.
 
-**Here is some bold text**
+## Paso 1
 
-## Here is a secondary heading
+Lo primero que deberemos hacer sera descargar rclone desde su web oficial: [Descargar rclone](https://rclone.org/downloads/) - en el caso de que tu sistema sea Linux/macOS/BSD solo deberas ejecutar el siguiente comando en la consola: 
 
-Here's a useless table:
-
-| Number | Next number | Previous number |
-| :------ |:--- | :--- |
-| Five | Six | Four |
-| Ten | Eleven | Nine |
-| Seven | Eight | Six |
-| Two | Three | One |
+``` curl https://rclone.org/install.sh | sudo bash```
 
 
 How about a yummy crepe?
