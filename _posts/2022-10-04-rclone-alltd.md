@@ -20,7 +20,7 @@ Lo primero que deberemos hacer sera descargar rclone desde su web oficial: [Desc
 ## Paso 2
 Como estoy usand Windows tan solo descargo el .zip y lo descomprimo, el resultado sera una carpeta con este contenido:
 
-!.[paso2.img1](https://telegra.ph/file/fab62f672ad86cb08ea83.png){: .mx-auto.d-block :}
+!.[paso2img1](https://telegra.ph/file/fab62f672ad86cb08ea83.png){: .mx-auto.d-block :}
 
 How about a yummy crepe?
 
