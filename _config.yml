@@ -24,9 +24,9 @@ url-canonical: "https://mau671.eu.org"
 
 navbar-links:
   ¿Quien Soy?: "aboutme"
-  Resources:
+  Tutoriales:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
-  Author's home: "https://mau671.eu.org"
+  #Author's home: "https://mau671.eu.org"
 
 ################
 # --- Logo --- #
