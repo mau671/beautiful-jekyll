@@ -22,13 +22,11 @@ Como estoy usand Windows tan solo descargo el .zip y lo descomprimo, el resultad
 
 ![paso2.img1](https://telegra.ph/file/fab62f672ad86cb08ea83.png){: .mx-auto.d-block :}
 
-How about a yummy crepe?
+##Paso 3
 
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
+Dejamos solo el archivo rclone.exe y borramos el resto, ahora creamos un archivo de texto con el nombre rclone, y le cambiamos la extension a .conf. El resultado final debería quedar así:
 
-It can also be centered!
-
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg){: .mx-auto.d-block :}
+![paso3.img1](https://telegra.ph/file/9abba51d48dcd039632b9.png)
 
 Here's a code chunk:
 
