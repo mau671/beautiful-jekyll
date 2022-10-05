@@ -27,6 +27,21 @@ Dejamos solo el archivo rclone.exe y borramos el resto, ahora creamos un archivo
 
 ![paso3.img1](https://telegra.ph/file/9abba51d48dcd039632b9.png){: .mx-auto.d-block :}
 
+Ahora escribimos _rclone config_ y en el menu que nos aparece presionas la letra n y luego enter
+
+![paso3.img2](https://telegra.ph/file/0f9b377279f2c0ca0c9db.png){: .mx-auto.d-block :}
+
+## Paso 4
+
+Aqui escribimos un nombre para la unidad, en este caso le colocare drive pero puedes colocar cualquier nombre
+
+![paso4.img1](https://telegra.ph/file/237352e5890dd1d40ccef.png){: .mx-auto.d-block :}
+
+Ahora en esta lista que nos aparece escribimos la palabra _drive_ para usar Google Drive
+
+![paso4.img2](https://telegra.ph/file/aa66921f0b047057e090d.png){: .mx-auto.d-block :}
+
+En todas estas opciones presionamos solo enter a no ser que quieras cambiar alguna cosa como el client id y client secret por unos tuyos: [Más info](https://rclone.org/drive/#making-your-own-client-id)
 Here's a code chunk:
 
 ~~~
