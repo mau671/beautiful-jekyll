@@ -26,7 +26,7 @@ Como estoy usand Windows tan solo descargo el .zip y lo descomprimo, el resultad
 
 Dejamos solo el archivo rclone.exe y borramos el resto, ahora creamos un archivo de texto con el nombre rclone, y le cambiamos la extension a .conf. El resultado final debería quedar así:
 
-![paso3.img1](https://telegra.ph/file/9abba51d48dcd039632b9.png)
+![paso3.img1](https://telegra.ph/file/9abba51d48dcd039632b9.png){: .mx-auto.d-block :}
 
 Here's a code chunk:
 
