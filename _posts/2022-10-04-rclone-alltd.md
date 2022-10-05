@@ -21,7 +21,7 @@ Como estoy usand Windows tan solo descargo el .zip y lo descomprimo, el resultad
 
 ![paso2.img1](https://telegra.ph/file/fab62f672ad86cb08ea83.png){: .mx-auto.d-block :}
 
-##Paso 3
+## Paso 3
 
 Dejamos solo el archivo rclone.exe y borramos el resto, ahora creamos un archivo de texto con el nombre rclone, y le cambiamos la extension a .conf. El resultado final debería quedar así:
 
