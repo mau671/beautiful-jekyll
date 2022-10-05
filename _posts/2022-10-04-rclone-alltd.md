@@ -2,7 +2,6 @@
 layout: post
 title: Montar varias TD (misma cuenta) con rclone
 subtitle: Aplicable a cualquier OS
-thumbnail-img: /assets/img/rclone-logo_424x423.png
 #gh-repo: daattali/beautiful-jekyll
 #gh-badge: [star, fork, follow]
 tags: [tutorial]
