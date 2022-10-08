@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Montar varias TD (misma cuenta) con rclone
+title: Montar multiples TD con rclone
 subtitle: Aplicable a cualquier OS
 #gh-repo: daattali/beautiful-jekyll
 #gh-badge: [star, fork, follow]
