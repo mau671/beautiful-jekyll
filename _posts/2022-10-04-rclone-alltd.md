@@ -14,7 +14,7 @@ En este tutorial aprenderas a montar todas las TD de una misma cuenta de una for
 
 Lo primero que deberemos hacer sera descargar rclone desde su web oficial: [Descargar rclone](https://rclone.org/downloads/) - en el caso de que tu sistema sea Linux/macOS/BSD solo deberas ejecutar el siguiente comando en la consola: 
 
-``` curl https://rclone.org/install.sh | sudo bash```
+~~~ curl https://rclone.org/install.sh | sudo bash~~~
 
 ## Paso 2
 Como estoy usand Windows tan solo descargo el .zip y lo descomprimo, el resultado sera una carpeta con este contenido:
@@ -42,6 +42,7 @@ Ahora en esta lista que nos aparece escribimos la palabra _drive_ para usar Goog
 ![paso4.img2](https://telegra.ph/file/aa66921f0b047057e090d.png){: .mx-auto.d-block :}
 
 En todas estas opciones presionamos solo enter a no ser que quieras cambiar alguna cosa como el client id y client secret por unos tuyos: [Más info](https://rclone.org/drive/#making-your-own-client-id)
+
 Here's a code chunk:
 
 ~~~
