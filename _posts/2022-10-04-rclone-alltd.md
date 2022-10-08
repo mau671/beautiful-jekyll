@@ -70,9 +70,11 @@ rclone backend -o config drives drive:
 ~~~
 
 {: .box-note}
-**Nota:** cambiar drive: por el nombre que le colocaste al remoto en el paso 4, por ejemplo, si le colocaste pepito el comando cambiaria a rclone backend -o config drives pepito:
+**Nota:** cambiar drive: por el nombre que le colocaste al remoto en el paso 4, por ejemplo, si le colocaste pepito el comando cambiaria a _rclone backend -o config drives pepito:_
 
-Ese comando nos generara algo así en la consola: 
+Ese comando nos generará algo similar a lo siguiente en la consola: 
+
+![paso5.img1](https://telegra.ph/file/f649842083e8d8d47c7da.png){: .mx-auto.d-block :} 
 
 Here's a code chunk:
 
