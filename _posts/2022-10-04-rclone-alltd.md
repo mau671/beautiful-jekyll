@@ -45,6 +45,12 @@ Ahora en esta lista que nos aparece escribimos la palabra _drive_ para usar Goog
 
 En todas estas opciones presionamos solo enter a no ser que quieras cambiar alguna cosa como el client id y client secret por unos tuyos: [Más info](https://rclone.org/drive/#making-your-own-client-id)
 
+![paso4.img3](https://telegra.ph/file/0ccc64812ce473722f6cb.png){: .mx-auto.d-block :}
+
+![paso4.img4](https://telegra.ph/file/8edea82b6c6c11effbb42.png){: .mx-auto.d-block :}
+
+Lo anterior nos abrirá el sitio web para iniciar sesión con nuestra cuenta de Google, una vez iniciada la sesión volvemos a la consola, nos aparecerá una opción para configurarlo como Unidad Compartida, presionaremos n y luego enter
+
 Here's a code chunk:
 
 ~~~
