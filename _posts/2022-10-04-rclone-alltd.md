@@ -29,7 +29,7 @@ Dejamos solo el archivo rclone.exe y borramos el resto, ahora creamos un archivo
 
 ![paso3.img1](https://telegra.ph/file/9abba51d48dcd039632b9.png){: .mx-auto.d-block :}
 
-Ahora escribimos _rclone config_ y en el menu que nos aparece presionas la letra n y luego enter
+Ahora escribimos _rclone config_ y en el menu que nos aparece presionas la tecla _n_ y luego enter
 
 ![paso3.img2](https://telegra.ph/file/0f9b377279f2c0ca0c9db.png){: .mx-auto.d-block :}
 
@@ -49,7 +49,30 @@ En todas estas opciones presionamos solo enter a no ser que quieras cambiar algu
 
 ![paso4.img4](https://telegra.ph/file/8edea82b6c6c11effbb42.png){: .mx-auto.d-block :}
 
-Lo anterior nos abrirá el sitio web para iniciar sesión con nuestra cuenta de Google, una vez iniciada la sesión volvemos a la consola, nos aparecerá una opción para configurarlo como Unidad Compartida, presionaremos n y luego enter
+Lo anterior nos abrirá el sitio web para iniciar sesión con nuestra cuenta de Google, una vez iniciada la sesión volvemos a la consola, nos aparecerá una opción para configurarlo como Unidad Compartida, presionaremos la tecla _n_ y luego enter
+
+![paso4.img5](https://telegra.ph/file/9c0bd2787ed86fb22e2eb.png){: .mx-auto.d-block :}
+
+Verificamos que toda la información este correcta y presionamos la tecla _y_
+
+![paso4.img6](https://telegra.ph/file/04164ed329aeed956fec2.png){: .mx-auto.d-block :}
+
+Y ahora salimos de rclone con la tecla _q_
+
+![paso4.img6](https://telegra.ph/file/542c78dbd8f531911753a.png){: .mx-auto.d-block :}
+
+## Paso 5
+
+Ahora ejecutamos el siguiente comando:
+
+~~~
+rclone backend -o config drives drive:
+~~~
+
+{: .box-note}
+**Nota:** cambiar drive: por el nombre que le colocaste al remoto en el paso 4, por ejemplo, si le colocaste pepito el comando cambiaria a rclone backend -o config drives pepito:
+
+Ese comando nos generara algo así en la consola: 
 
 Here's a code chunk:
 
