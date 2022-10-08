@@ -14,7 +14,9 @@ En este tutorial aprenderas a montar todas las TD de una misma cuenta de una for
 
 Lo primero que deberemos hacer sera descargar rclone desde su web oficial: [Descargar rclone](https://rclone.org/downloads/) - en el caso de que tu sistema sea Linux/macOS/BSD solo deberas ejecutar el siguiente comando en la consola: 
 
-~~~ curl https://rclone.org/install.sh | sudo bash~~~
+~~~ 
+curl https://rclone.org/install.sh | sudo bash 
+~~~
 
 ## Paso 2
 Como estoy usand Windows tan solo descargo el .zip y lo descomprimo, el resultado sera una carpeta con este contenido:
