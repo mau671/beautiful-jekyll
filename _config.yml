@@ -26,7 +26,7 @@ navbar-links:
   ¿Quien Soy?: "aboutme"
   Tutoriales:
     - Configurar rclone: "https://beautifuljekyll.com"
-    - Montar multiples TD: "2022-09-28-rclone-alltd/"
+    - Montar multiples TD: "2022-09-28-rclone-variastd/"
   #Author's home: "https://mau671.eu.org"
 
 ################
