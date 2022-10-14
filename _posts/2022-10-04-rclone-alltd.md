@@ -78,7 +78,7 @@ Ese comando nos generará algo similar a lo siguiente en la consola:
 
 ## Paso 6
 
-Copiamos todo el resultado del comando anterior y lo pegamos en el archivo rclone.conf que creamos en el [paso 2](#paso-4), el archivo ahora deberia lucir de la siguiente manera:
+Copiamos todo el resultado del comando anterior y lo pegamos en el archivo rclone.conf que creamos en el [paso 2](#paso-2), el archivo ahora deberia lucir de la siguiente manera:
 
 ![paso6.img1](https://telegra.ph/file/72a6817b8e1a4889555f6.png){: .mx-auto.d-block :} 
 
@@ -99,7 +99,7 @@ El resultado deberia ser similar a lo siguiente:
 ![paso7.img1](https://telegra.ph/file/1e8cf0c681ef342531df7.png){: .mx-auto.d-block :} 
 
 {: .box-error}
-**Advertencia:** Si el comando anterior falla tienes que instalar el programa WinFsp desde el siguiente enlace: https://winfsp.dev/rel/ y ejecutar el comando nuevamente
+Si el comando anterior falla tienes que instalar el programa [WinFsp](https://winfsp.dev/rel/) y ejecutar el comando nuevamente
 
 Ahora podremos ver que todas las unidades compartidas de la cuenta se montaron en una misma unidad de Windows (o carpeta en Linux)
 
