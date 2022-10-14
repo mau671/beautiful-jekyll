@@ -25,7 +25,7 @@ url-canonical: "https://mau671.eu.org"
 navbar-links:
   ¿Quien Soy?: "aboutme"
   Tutoriales:
-    - Configurar rclone: "https://beautifuljekyll.com"
+    - Configurar rclone: "2022-04-09-conf-rclone/"
     - Montar multiples TD: "2022-09-28-rclone-variastd/"
   #Author's home: "https://mau671.eu.org"
 
