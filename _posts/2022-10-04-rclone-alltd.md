@@ -70,53 +70,42 @@ rclone backend -o config drives drive:
 ~~~
 
 {: .box-note}
-**Nota:** cambiar drive: por el nombre que le colocaste al remoto en el paso 4, por ejemplo, si le colocaste pepito el comando cambiaria a _rclone backend -o config drives pepito:_
+**Nota:** cambiar drive: por el nombre que le colocaste al remoto en el [paso 4](#paso-4), por ejemplo, si le colocaste pepito el comando cambiaria a _rclone backend -o config drives pepito:_
 
 Ese comando nos generará algo similar a lo siguiente en la consola: 
 
 ![paso5.img1](https://telegra.ph/file/f649842083e8d8d47c7da.png){: .mx-auto.d-block :} 
 
-Here's a code chunk:
+## Paso 6
 
-~~~
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-~~~
+Copiamos todo el resultado del comando anterior y lo pegamos en el archivo rclone.conf que creamos en el [paso 2](#paso-4), el archivo ahora deberia lucir de la siguiente manera:
 
-And here is the same code with syntax highlighting:
-
-```javascript
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-```
-
-And here is the same code yet again but with line numbers:
-
-{% highlight javascript linenos %}
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-{% endhighlight %}
-
-## Boxes
-You can add notification, warning and error boxes like this:
-
-### Notification
+![paso6.img1](https://telegra.ph/file/72a6817b8e1a4889555f6.png){: .mx-auto.d-block :} 
 
 {: .box-note}
-**Note:** This is a notification box.
+**Nota:** Tambien agregar _server_side_across_configs = true_ en el primer remoto para poder mover entre unidades sin descargar y volver a subir y asi poder renombrar archivos con FileBot o TMM entre distintas unidades, el archivo debería verse así:
 
-### Warning
+![paso6.img2](https://telegra.ph/file/3198e705e9aebf79b0e12.png){: .mx-auto.d-block :} 
 
-{: .box-warning}
-**Warning:** This is a warning box.
+## Paso 7
+Ahora guardamos el archivo y montamos la unidad llamada AllDrives, puedes personalizar el comando a tu gusto, agregando cache y otras opciones. Yo utilizare algo basico el cual es el siguiente comando: 
 
-### Error
+~~~
+rclone mount AllDrives: *
+~~~
+
+El resultado deberia ser similar a lo siguiente:
+
+![paso7.img1](https://telegra.ph/file/1e8cf0c681ef342531df7.png){: .mx-auto.d-block :} 
 
 {: .box-error}
-**Error:** This is an error box.
+**Advertencia:** Si el comando anterior falla tienes que instalar el programa WinFsp desde el siguiente enlace: https://winfsp.dev/rel/ y ejecutar el comando nuevamente
+
+Ahora podremos ver que todas las unidades compartidas de la cuenta se montaron en una misma unidad de Windows (o carpeta en Linux)
+
+![paso7.img2](https://telegra.ph/file/e4929e36b1f3afe0694b6.png){: .mx-auto.d-block :} 
+
+{: .box-warning}
+Para que la unidad quede montada e inicie automáticamente con el sistema en Windows se debe usar nssm, tutorial [aqui](https://blog.storagemadeeasy.com/running-windows-rclone-mount-as-a-service/) 
+
+## Tutorial creado por [@mau671](https://t.me/mau671)
