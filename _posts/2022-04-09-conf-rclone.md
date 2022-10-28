@@ -58,8 +58,7 @@ Ahora presionamos la tecla _enter_ en las siguientes opciones, cambialas solo si
 
 ## Paso 8
 
-{: .box-warning}
-**Atención:** En la siguiente opción tendremos que digitar la letra "n" porque estamos configurandolo en un dispositivo al que solo podemos acceder mediante linea de comandos, luego de eso presionamos la tecla _enter_.
+En la siguiente opción tendremos que digitar la letra "n" porque estamos configurandolo en un dispositivo al que solo podemos acceder mediante linea de comandos, luego de eso presionamos la tecla _enter_.
 
 ![image](https://user-images.githubusercontent.com/115044134/195947435-70bbb1f2-8d1a-42f2-8edd-8ead65b576eb.png){: .mx-auto.d-block :}
 
