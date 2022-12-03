@@ -19,7 +19,8 @@ curl https://rclone.org/install.sh | sudo bash
 ~~~
 
 ## Paso 2
-Como estoy usand Windows tan solo descargo el .zip y lo descomprimo, el resultado sera una carpeta con este contenido:
+
+Como estoy usando Windows tan solo descargo el .zip y lo descomprimo, el resultado sera una carpeta con este contenido:
 
 ![paso2.img1](https://telegra.ph/file/fab62f672ad86cb08ea83.png){: .mx-auto.d-block :}
 
@@ -43,7 +44,7 @@ Ahora en esta lista que nos aparece escribimos la palabra _drive_ para usar Goog
 
 ![paso4.img2](https://telegra.ph/file/aa66921f0b047057e090d.png){: .mx-auto.d-block :}
 
-**Es mejor que configures tu propio client_id y secret** pero para no alargar el tutorial no lo explicare aqui, asi que presionamos le tecla enter y en la siguiente opción la presionamos nuevamente. PASOS PARA CREAR TU ID Y SECRET: [click aquí](https://rclone.org/drive/#making-your-own-client-id)
+**Es mejor que configures tu propio client_id y secret ya que las genéricas se comparten entre cientos de usuarios** pero para no alargar el tutorial eso no lo explicare aqui, asi que presionamos le tecla _enter_ en todas esas opciones. **PASOS PARA CREAR TU ID Y SECRET: **[click aquí](https://rclone.org/drive/#making-your-own-client-id)
 
 ![paso4.img3](https://telegra.ph/file/0ccc64812ce473722f6cb.png){: .mx-auto.d-block :}
 
