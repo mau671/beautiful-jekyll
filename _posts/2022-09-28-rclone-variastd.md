@@ -43,7 +43,7 @@ Ahora en esta lista que nos aparece escribimos la palabra _drive_ para usar Goog
 
 ![paso4.img2](https://telegra.ph/file/aa66921f0b047057e090d.png){: .mx-auto.d-block :}
 
-En todas estas opciones presionamos solo enter a no ser que quieras cambiar alguna cosa como el client id y client secret por unos tuyos: [Más info](https://rclone.org/drive/#making-your-own-client-id)
+**Es mejor que configures tu propio client_id y secret** pero para no alargar el tutorial no lo explicare aqui, asi que presionamos le tecla enter y en la siguiente opción la presionamos nuevamente. PASOS PARA CREAR TU ID Y SECRET: [click aquí](https://rclone.org/drive/#making-your-own-client-id)
 
 ![paso4.img3](https://telegra.ph/file/0ccc64812ce473722f6cb.png){: .mx-auto.d-block :}
 
