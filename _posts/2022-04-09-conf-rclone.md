@@ -42,7 +42,7 @@ Luego de eso nos apareceran las siguientes opciones:
 
 ![image](https://user-images.githubusercontent.com/115044134/195947265-cfea7571-d3b4-44b1-a8d7-276dc26152f3.png){: .mx-auto.d-block :}
 
-**Es mejor que configures tu propio client_id y secret ya que las genéricas se comparten entre cientos de usuarios** pero para no alargar el tutorial eso no lo explicare aqui, asi que presionamos le tecla enter y en la siguiente opción la presionamos nuevamente. PASOS PARA CREAR TU ID Y SECRET: [click aquí](https://rclone.org/drive/#making-your-own-client-id)
+**Es mejor que configures tu propio client_id y secret ya que las genéricas se comparten entre cientos de usuarios** pero para no alargar el tutorial eso no lo explicare aqui, asi que presionamos le tecla enter y en la siguiente opción la presionamos nuevamente. **PASOS PARA CREAR TU ID Y SECRET: **[click aquí](https://rclone.org/drive/#making-your-own-client-id)
 
 ## Paso 6
 
