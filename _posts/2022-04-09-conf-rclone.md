@@ -42,7 +42,7 @@ Luego de eso nos apareceran las siguientes opciones:
 
 ![image](https://user-images.githubusercontent.com/115044134/195947265-cfea7571-d3b4-44b1-a8d7-276dc26152f3.png){: .mx-auto.d-block :}
 
-Presionamos le tecla enter y en la siguiente opción la presionamos nuevamente si no queremos utilizar nuestras credenciales para la API, si quieres utilizar tus credenciales entonces introducelas allí, si no sabes como crearlas sigue las instrucciones [aquí.](https://rclone.org/drive/#making-your-own-client-id)
+**Es mejor que configures tu propio client_id y secret** pero para no alargar el tutorial no lo explicare aqui, asi que presionamos le tecla enter y en la siguiente opción la presionamos nuevamente. PASOS PARA CREAR TU ID Y SECRET: [click aquí.](https://rclone.org/drive/#making-your-own-client-id)
 
 ## Paso 6
 
