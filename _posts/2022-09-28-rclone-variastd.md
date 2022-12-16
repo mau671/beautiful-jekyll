@@ -89,10 +89,16 @@ Copiamos todo el resultado del comando anterior y lo pegamos en el archivo rclon
 ![paso6.img2](https://telegra.ph/file/3198e705e9aebf79b0e12.png){: .mx-auto.d-block :} 
 
 ## Paso 7
-Ahora guardamos el archivo y montamos la unidad llamada AllDrives, puedes personalizar el comando a tu gusto, agregando cache y otras opciones. Yo utilizare algo basico el cual es el siguiente comando: 
+Ahora guardamos el archivo y montamos la unidad llamada AllDrives, puedes personalizar el comando a tu gusto, agregando cache y otras opciones. Como ejemplo utilizaré algo básico como lo siguiente:
 
+Windows: 
 ~~~
-rclone mount AllDrives: *
+rclone mount AllDrives: * --network-mode
+~~~
+
+Linux:
+~~~
+rclone mount AllDrives: /ruta/gdrive --allow-other
 ~~~
 
 El resultado deberia ser similar a lo siguiente:
