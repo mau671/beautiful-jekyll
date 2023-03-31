@@ -58,7 +58,7 @@ Verifica que toda la información sea correcta y presiona la tecla _y_.
 
 ![paso4.img6](https://telegra.ph/file/04164ed329aeed956fec2.png){: .mx-auto.d-block :}
 
-Y ahora salimos de rclone con la tecla _q_
+Ahora, sal de rclone con la tecla _q_.
 
 ![paso4.img6](https://telegra.ph/file/542c78dbd8f531911753a.png){: .mx-auto.d-block :}
 
