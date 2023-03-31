@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Sobre mi
-subtitle: Pagina en proceso
+subtitle: Desarrollador de Software
 ---
 
 ¡Hola! Soy mau, un apasionado de la informática y todo lo relacionado con selfhosted. Desde hace años, me he interesado por el mundo de la tecnología y he descubierto que me encanta aprender cosas nuevas cada día.
