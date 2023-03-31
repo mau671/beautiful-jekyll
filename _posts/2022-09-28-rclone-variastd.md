@@ -44,17 +44,17 @@ A continuación, en la lista que aparece, escribe la palabra _drive_ para usar G
 
 ![paso4.img2](https://telegra.ph/file/aa66921f0b047057e090d.png){: .mx-auto.d-block :}
 
-**Es mejor que configures tu propio client_id y secret ya que las genéricas se comparten entre cientos de usuarios** pero para no alargar el tutorial eso no lo explicare aqui, asi que presionamos le tecla _enter_ en todas esas opciones. **PASOS PARA CREAR TU ID Y SECRET:** [click aquí](https://rclone.org/drive/#making-your-own-client-id)
+**Es mejor configurar tu propio client_id y secret ya que las genéricas se comparten entre cientos de usuarios.** Pero para no alargar el tutorial, no se explicará aquí. Presiona _enter_ en todas las opciones que aparecen. Si quieres conocer los pasos para crear tu propio id y secret, [haz clic aquí.](https://rclone.org/drive/#making-your-own-client-id)
 
 ![paso4.img3](https://telegra.ph/file/0ccc64812ce473722f6cb.png){: .mx-auto.d-block :}
 
 ![paso4.img4](https://telegra.ph/file/8edea82b6c6c11effbb42.png){: .mx-auto.d-block :}
 
-Lo anterior nos abrirá el sitio web para iniciar sesión con nuestra cuenta de Google, una vez iniciada la sesión volvemos a la consola, nos aparecerá una opción para configurarlo como Unidad Compartida, presionaremos la tecla _n_ y luego enter
+A continuación, se abrirá el sitio web para iniciar sesión con tu cuenta de Google. Una vez iniciada la sesión, regresa a la consola. Aparecerá una opción para configurarlo como unidad compartida. Presiona la tecla _n_ y luego enter.
 
 ![paso4.img5](https://telegra.ph/file/9c0bd2787ed86fb22e2eb.png){: .mx-auto.d-block :}
 
-Verificamos que toda la información este correcta y presionamos la tecla _y_
+Verifica que toda la información sea correcta y presiona la tecla _y_.
 
 ![paso4.img6](https://telegra.ph/file/04164ed329aeed956fec2.png){: .mx-auto.d-block :}
 
