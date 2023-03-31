@@ -12,7 +12,7 @@ En este tutorial aprenderas a montar todas las TD de una misma cuenta de una for
 
 ## Paso 1
 
-Lo primero que deberemos hacer sera descargar rclone desde su web oficial: [Descargar rclone](https://rclone.org/downloads/) - en el caso de que tu sistema sea Linux/macOS/BSD solo deberas ejecutar el siguiente comando en la consola: 
+Lo primero que debemos hacer es descargar rclone desde su web oficial: [Descargar rclone](https://rclone.org/downloads/). Si tu sistema es Linux, macOS o BSD, solo tendrás que ejecutar el siguiente comando en la consola:
 
 ~~~ 
 curl https://rclone.org/install.sh | sudo bash 
@@ -20,13 +20,13 @@ curl https://rclone.org/install.sh | sudo bash
 
 ## Paso 2
 
-Como estoy usando Windows tan solo descargo el .zip y lo descomprimo, el resultado sera una carpeta con este contenido:
+Si estás usando Windows, solo tienes que descargar el archivo .zip y descomprimirlo. Esto creará una carpeta con el contenido siguiente:
 
 ![paso2.img1](https://telegra.ph/file/fab62f672ad86cb08ea83.png){: .mx-auto.d-block :}
 
 ## Paso 3
 
-Dejamos solo el archivo rclone.exe y borramos el resto, ahora creamos un archivo de texto con el nombre rclone, y le cambiamos la extension a .conf. El resultado final debería quedar así:
+Ahora, elimina todos los archivos excepto rclone.exe y crea un archivo de texto con el nombre rclone. Cambia la extensión a .conf, para que quede de esta manera:
 
 ![paso3.img1](https://telegra.ph/file/9abba51d48dcd039632b9.png){: .mx-auto.d-block :}
 
